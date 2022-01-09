@@ -1,1 +1,1 @@
-export const baseURL = "http://localhost:4000/api"; //api url
+export const baseURL = "https://mernapi-backend.herokuapp.com/api"; //api url
